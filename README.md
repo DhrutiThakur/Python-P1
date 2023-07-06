@@ -1,17 +1,26 @@
 # Python-P1
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Exploratory Data Analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Objectives: <br>
+Improve customer experience by analyzing sales data.
+Increase revenue / Can increase sales amount.<br>
+Description: 
+  Performed Data cleaning and manipulation
+	 Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
+  Improved customer experience by identifying potential customer across different states, occupation, gender and age groups
+ 	Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands. <br>
+
+Tools used: Python, Jupiter Notebook 
+
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
+- <b>Jupyter</b>
 
 <h2>Environments Used </h2>
 
