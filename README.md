@@ -30,13 +30,12 @@ Tools used: Python, Jupiter Notebook
 
 <p align="center">
 <h3>Plotting a bar chart for Gender and it's count:<h3/> <br/>
-<img src="https://imgur.com/a3ISLjq.png" height="100%" width="100%" alt=""/>
-<br />
-<br /> 
+
+![e11](https://github.com/DhrutiThakur/Python-P1/assets/114195249/459a4e1c-9df0-4009-9cff-774d9b95a344)
+
+
 <h3>This bar graph shows that purchasing power of females is greater than the men:<h3/> <br/> 
-<img src="https://imgur.com/28IwvFW.png" height="100%" width="100%" alt=""/>
-<br />
-<br />
+
 <h3>This bar graph shows Age-group of females that buy more than other Age-group:<h3/> <br/>
 <img src="https://imgur.com/QbQzWHJ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br /> 
