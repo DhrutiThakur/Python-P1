@@ -35,32 +35,38 @@ Tools used: Python, Jupiter Notebook
 
 
 <h3>This bar graph shows that purchasing power of females is greater than the men:<h3/> <br/> 
+	
+![e22](https://github.com/DhrutiThakur/Python-P1/assets/114195249/68a4fbbe-8feb-4c26-8217-a0a14ba3178a)
 
 <h3>This bar graph shows Age-group of females that buy more than other Age-group:<h3/> <br/>
-<img src="https://imgur.com/QbQzWHJ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br /> 
-<br />
+	
+![e33](https://github.com/DhrutiThakur/Python-P1/assets/114195249/d23744c4-bdc4-4f05-bd57-134995b68a25)
+
  <h3> Total number of orders from top 10 states:</h3>  <br/>
-<img src="https://imgur.com/ZYm4Yej.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+![e44](https://github.com/DhrutiThakur/Python-P1/assets/114195249/414837a9-9b7f-4d8e-9948-59188134e1ca)
+
+
 <h3>We can see that most of the buyers are married women and they have high purchasing power.</h3> <br/>
-<img src="https://imgur.com/eK4VrJS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br /> 
-<br />
+
+![e55](https://github.com/DhrutiThakur/Python-P1/assets/114195249/35aae520-157f-401f-87f3-d2fbcbcddd88)
+
+
 <h3>From this graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector</h3> <br/>
-<img src="https://imgur.com/e8qFhEj.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+![e66](https://github.com/DhrutiThakur/Python-P1/assets/114195249/2b477942-eeeb-4ae7-969e-25ce67b538ff)
+
+
 <h3>Most sold products:</h3>  <br/>
-<img src="https://imgur.com/fgEQtWm.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<h3>Top 10 most sold products</h3>  <br/>
-<img src="https://imgur.com/Rgf9FXL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+![e77](https://github.com/DhrutiThakur/Python-P1/assets/114195249/6894dd66-25c0-4396-95ad-5b5d92c11e61)
+
+
+
 </p> 
 
 <h2>Conclusion</h2>
+
 <h4>Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.<h4/>
 <!--
  ```diff
